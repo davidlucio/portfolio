@@ -1,0 +1,33 @@
+[
+    {
+        "id": 8,
+        "name":"\"BattleBrands\"",
+        "subheader":"Digital Pet Game",
+        "description":"A micro-game, meant to mimic the pocket digital pets popular in the 90's. The application was built in Node.js using a MySql database.",
+        "url":{
+            "repo": "https://github.com/Atlas238/battle-brands",
+            "deploy": "https://battle-brands.herokuapp.com/"
+        }
+    },
+    {
+        "id": 6,
+        "name":"\"Hop'r\"",
+        "subheader":"Local Brewery Finder App",
+        "description":"An application that uses geolocation and the OpenBreweryDB.org API to randomly shuffle through local brewery options.",
+        "url":{
+            "repo": "https://github.com/davidlucio/breweryfinder",
+            "deploy": "https://davidlucio.github.io/breweryfinder/"
+        }
+    },
+    {
+        "id": 7,
+        "name":"Weather Dashboard",
+        "subheader":"Weekly Forecast App",
+        "description":"This micro-application was developed for the UW Coding Bootcamp, leveraging thew OpenWeatherMap.org API to display a forecast for selected locations.",
+        "url":{
+            "repo": "https://github.com/davidlucio/weatherdashboard_HW6",
+            "deploy": "https://davidlucio.github.io/weatherdashboard_HW6/"
+        }
+    }
+
+]
