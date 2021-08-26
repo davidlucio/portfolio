@@ -302,37 +302,36 @@ section#Contact p a{
     color: var(--HardLuckLiteBlue);
 }
 
-section#Contact p:hover,
-section#Contact p:hover a{
+section#Contact p a:hover {
     color: white;
 }
 
 
 
-p::before{
+p a::before{
     font-family: "Font Awesome 6 Free";
     font-weight: 400;
     margin-right: 15px;
 }
 
-p.contact-email::before{
+p.contact-email a::before{
+    font-weight: 900;
+    content: "\f199";
+}
+
+p.contact-phone a::before{
+    font-weight: 900;
+    content: "\f098";
+}
+
+p.contact-linkedin a::before{
     font-family: "Font Awesome 6 Brands";
     content: "\f08c";
 }
 
-p.contact-phone::before{
+p.contact-github a::before{
     font-family: "Font Awesome 6 Brands";
-    content: "\f08c";
-}
-
-p.contact-linkedin::before{
-    font-family: "Font Awesome 6 Brands";
-    content: "\f08c";
-}
-
-p.contact-github::before{
-    font-family: "Font Awesome 6 Brands";
-    content: "\f08c";
+    content: "\f092";
 }
 
 
@@ -361,10 +360,6 @@ footer p{
 /********************************/
 
 @media screen and (max-width: 780px) {
-
-    header h2{
-        display:none;
-    }
 
     nav {
         font-size:100%
@@ -400,6 +395,10 @@ footer p{
 }
 
 @media screen and (max-width: 500px) {
+
+    header h2{
+        display:none;
+    }
 
     section img.profile-picture{
         display:block;
