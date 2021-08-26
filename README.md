@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## By: David Lucio
 
-## Available Scripts
+<a name="back"></a>
+### Table of Contents
 
-In the project directory, you can run:
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-### `npm start`
+&nbsp;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+&nbsp;
 
-### `npm test`
+> ## **Description**<br/>
+> ### Professional portfolio
+> 
+> ### **v4.1.0** (8/26/21)
+> Complete overhaul of the project, using React.js
+> 
+> ### **v3.0.1** (8/11/21)
+> Added new project and corresponding screenshots.
+> 
+> ### **v2.0.2** (7/13/21)
+> Updated portfolio template. Now includes updated links to various projects and repos, as well as screenshots, and a link to GitHub.
+> 
+> ### **v1.0** (6/22/21)
+> Recreated template portfolio using dummy links and stock images. Also used some of my personal resopurces and brand coloring as variables. For the most part, I tried to make it 1-to-1, but I took a few liberties with functionality. 
+> 
+> &nbsp;
+> 
+> ## **Tech used**<br/>
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> &nbsp;
+> 
+> ## **Tech featured in examples**<br/>
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br/>
 
-### `npm run build`
+*Completed Assignment*: [Deployment Link](https://davidlucio.github.io/portfolio/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![React Portfolio Page](./public/assets/images/professional-portfolio-mark4.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+&nbsp;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a name="installation"></a>
+## **Installation**  
+N/A (Access directly via [Deployment Link](https://davidlucio.github.io/portfolio/))
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+&nbsp;
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a name="usage"></a>
+## **Usage**  
+Please contact david.a.lucio@gmail.com for additional information regarding resume.  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+&nbsp;
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a name="contributing"></a>
+## **Contributing**
+N/A  
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+&nbsp;
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a name="tests"></a>
+## **Tests**  
+N/A  
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+&nbsp;
 
-### Analyzing the Bundle Size
+<a name="questions"></a>
+## **Questions**  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Email: david.a.lucio@gmail.com
 
-### Making a Progressive Web App
+GitHub: [davidlucio](http://github.com/davidlucio)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+LinkedIn: [davidlucio](https://www.linkedin.com/in/davidlucio)
