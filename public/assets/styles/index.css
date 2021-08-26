@@ -288,6 +288,53 @@ section#Projects article .repository-link {
     font-size: 125%;
 }
 
+/* CONTACT */
+
+section#Contact p{
+    width: 100%;
+    text-align: center;
+    font-size: 170%;
+    color: var(--HardLuckLiteBlue);
+}
+
+section#Contact p a{
+    text-decoration: none;
+    color: var(--HardLuckLiteBlue);
+}
+
+section#Contact p a:hover {
+    color: white;
+}
+
+
+
+p a::before{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 400;
+    margin-right: 15px;
+}
+
+p.contact-email a::before{
+    font-weight: 900;
+    content: "\f199";
+}
+
+p.contact-phone a::before{
+    font-weight: 900;
+    content: "\f098";
+}
+
+p.contact-linkedin a::before{
+    font-family: "Font Awesome 6 Brands";
+    content: "\f08c";
+}
+
+p.contact-github a::before{
+    font-family: "Font Awesome 6 Brands";
+    content: "\f092";
+}
+
+
 /********************************/
 /************ FOOTER ************/
 /********************************/
@@ -313,6 +360,14 @@ footer p{
 /********************************/
 
 @media screen and (max-width: 780px) {
+
+    nav {
+        font-size:100%
+    }
+
+    nav .menu-item{
+        margin: 5px;
+    }
 
     section#Projects aside figure{
         flex: 1 1 50%;
@@ -340,6 +395,10 @@ footer p{
 }
 
 @media screen and (max-width: 500px) {
+
+    header h2{
+        display:none;
+    }
 
     section img.profile-picture{
         display:block;
