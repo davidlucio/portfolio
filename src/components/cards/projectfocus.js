@@ -11,8 +11,8 @@ export default function Focus({ project }) {
 
                 <div className="description">
                     <h4>{ project.subheader }</h4>
-                    <p>{ project.description } <a href={ project.url.deploy } target="_blank">Try it out...</a></p>
-                    <p className="repository-link">Visit the <a href={ project.url.repo } target="_blank">Repository</a></p>
+                    <p>{ project.description } <a href={ project.url.deploy } target="_blank" rel="noreferrer">Try it out...</a></p>
+                    <p className="repository-link">Visit the <a href={ project.url.repo } target="_blank" rel="noreferrer">Repository</a></p>
                 </div>
                 
             </>
