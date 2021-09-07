@@ -1,5 +1,15 @@
 [
     {
+        "id": 9,
+        "name":"\"Prepercolator\"",
+        "subheader":"Coffee Drink Making App",
+        "description":"An application for creating and storing coffee drinks. Intended for use by small cafes to help digitize their menus, and allow customers to customize orders more easily.",
+        "url":{
+            "repo": "https://github.com/davidlucio/prepercolator",
+            "deploy": "https://prepercolator.herokuapp.com/"
+        }
+    },
+    {
         "id": 8,
         "name":"\"BattleBrands\"",
         "subheader":"Digital Pet Game",

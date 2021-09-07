@@ -19,6 +19,9 @@
 
 > ## **Description**<br/>
 > ### Professional portfolio
+>
+> ### **v4.2.0** (9/7/21)
+> Added newest project
 > 
 > ### **v4.1.0** (8/26/21)
 > Complete overhaul of the project, using React.js
@@ -30,7 +33,7 @@
 > Updated portfolio template. Now includes updated links to various projects and repos, as well as screenshots, and a link to GitHub.
 > 
 > ### **v1.0** (6/22/21)
-> Recreated template portfolio using dummy links and stock images. Also used some of my personal resopurces and brand coloring as variables. For the most part, I tried to make it 1-to-1, but I took a few liberties with functionality. 
+> Recreated template portfolio using placeholder links and stock images. Also used some of my personal resources and brand coloring as variables. For the most part, I tried to make it 1-to-1, but I took a few liberties with functionality. 
 > 
 > &nbsp;
 > 
